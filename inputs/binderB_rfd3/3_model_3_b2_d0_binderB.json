@@ -1,0 +1,14 @@
+{
+  "3_model_3_b2_d0_binderB": {
+    "dialect": 2,
+    "input": "/home01/a2149a01/RFdiffusion3/inputs/binderB_targets/3_model_3_b2_d0_A_RAP.cif",
+    "ligand": "RAP",
+    "contig": "A1-75,/0,50-80",
+    "infer_ori_strategy": "hotspots",
+    "select_hotspots": {
+      "A72": "NE,NH1,NH2",
+      "RAP": "O8,O9"
+    },
+    "is_non_loopy": true
+  }
+}

@@ -9,7 +9,7 @@ project will design new shorter & efficient target system of **Binder A - Rapamy
 
 ## Design Strategy
 
-### Stage 1 — Binder A
+### Stage 1 (Binder A)
 Binder A is designed against the WT FRB–rapamycin complex.
 
 WT FRB + Rapamycin
@@ -22,7 +22,7 @@ WT FRB + Rapamycin
 
 Binder A replaces natural FKBP component.
 
-### Stage 2 — Binder B
+### Stage 2 (Binder B)
 
 Selected Binder A candidates will subsequently be used as targets for Binder B design.
 
