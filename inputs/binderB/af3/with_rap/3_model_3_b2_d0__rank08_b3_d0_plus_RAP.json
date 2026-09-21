@@ -1,0 +1,36 @@
+{
+  "name": "3_model_3_b2_d0__rank08_b3_d0_plus_RAP",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "SSEARREKVLAEATKRADLYAWWLADGAYVDPATAAELLALYQAAVAAAEAGDVDRAEALLAAARAKEAAARAAL",
+        "unpairedMsa": "",
+        "pairedMsa": "",
+        "templates": []
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "AALAALRPVIEAEATPAHLVTLAALAAAAGLDELAAELREKLARYEAGEIDAAEAAAYVVARAAELLA",
+        "unpairedMsa": "",
+        "pairedMsa": "",
+        "templates": []
+      }
+    },
+    {
+      "ligand": {
+        "id": "C",
+        "ccdCodes": [
+          "RAP"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}
