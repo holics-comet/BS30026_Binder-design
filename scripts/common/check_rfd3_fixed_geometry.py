@@ -2,7 +2,7 @@ import gzip
 import numpy as np
 
 
-INPUT_PDB = "/home01/a2149a01/RFdiffusion3/inputs/1FAP_FRB_RAP.pdb"
+INPUT_PDB = "/home01/a2149a01/RFdiffusion3/inputs/reference/1FAP_FRB_RAP.pdb"
 OUTPUT_CIF = (
     "/home01/a2149a01/RFdiffusion3/outputs/frb_rap_pilot/"
     "frb_rap_binder_frb_rap_binder_0_model_0.cif.gz"

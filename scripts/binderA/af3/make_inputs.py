@@ -5,7 +5,7 @@ import json
 
 PROJECT = Path("/home01/a2149a01/RFdiffusion3")
 SRC = PROJECT / "outputs/binderA_ligandmpnn_22x4"
-OUT = PROJECT / "inputs/af3_binderA_pilot"
+OUT = PROJECT / "inputs/binderA/af3/with_rap"
 
 FRB = (
     "RVAILWHEMWHEGLEEASRLYFGERNVKGMFEVLEPLHAMMERGPQTLKETSFNQAY"

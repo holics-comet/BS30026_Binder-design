@@ -6,7 +6,7 @@ from biotite.structure.io.pdbx import CIFFile, get_structure, set_structure
 
 ROOT = Path("/home01/a2149a01/RFdiffusion3")
 AF3 = ROOT / "outputs/af3_binderA_pilot"
-OUT = ROOT / "inputs/binderB_targets"
+OUT = ROOT / "inputs/binderB/targets"
 CSV_OUT = ROOT / "outputs/binderB_rap_surface_analysis.csv"
 
 TARGETS = {

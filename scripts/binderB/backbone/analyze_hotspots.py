@@ -5,7 +5,7 @@ import pandas as pd
 from biotite.structure.io.pdbx import CIFFile, get_structure
 
 ROOT = Path("/home01/a2149a01/RFdiffusion3")
-TARGET_DIR = ROOT / "inputs/binderB_targets"
+TARGET_DIR = ROOT / "inputs/binderB/targets"
 OUT = ROOT / "outputs/binderB_hotspot_candidates.csv"
 
 CONTACT = 4.0

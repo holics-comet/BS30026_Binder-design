@@ -2,8 +2,8 @@ from pathlib import Path
 import json
 
 ROOT = Path("/home01/a2149a01/RFdiffusion3")
-TARGET = ROOT / "inputs/binderB_targets"
-OUT = ROOT / "inputs/binderB_rfd3"
+TARGET = ROOT / "inputs/binderB/targets"
+OUT = ROOT / "inputs/binderB/rfd3"
 
 # candidate: (A length, protein hotspot, RAP hotspots)
 CONFIG = {
