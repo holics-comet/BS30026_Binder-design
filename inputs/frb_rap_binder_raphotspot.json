@@ -1,0 +1,15 @@
+{
+    "frb_rap_binder_raphotspot": {
+        "dialect": 2,
+        "input": "1FAP_FRB_RAP.pdb",
+        "ligand": "RAP",
+        "contig": "50-80,/0,B2018-2112",
+        "infer_ori_strategy": "hotspots",
+        "select_hotspots": {
+            "B2042": "NH1,NH2",
+            "B2105": "OH",
+            "RAP": "O3,O8"
+        },
+        "is_non_loopy": true
+    }
+}

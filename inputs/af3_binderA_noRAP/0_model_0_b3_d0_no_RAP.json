@@ -1,0 +1,28 @@
+{
+  "name": "0_model_0_b3_d0_no_RAP",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "MTTEQIADELEARMKELGAKYGTDGIALAVAEMTARYGQAATDAALALLRARNRAAL",
+        "unpairedMsa": "",
+        "pairedMsa": "",
+        "templates": []
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "RVAILWHEMWHEGLEEASRLYFGERNVKGMFEVLEPLHAMMERGPQTLKETSFNQAYGRDLMEAQEWCRKYMKSGNVKDLTQAWDLYYHVFRRIS",
+        "unpairedMsa": "",
+        "pairedMsa": "",
+        "templates": []
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}
