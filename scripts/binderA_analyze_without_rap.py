@@ -10,7 +10,7 @@ import csv
 
 OUTROOT = Path("/scratch/a2149a01/RFdiffusion3_data/outputs")
 AF3_ROOT = OUTROOT / "af3_binderA_noRAP_a100"
-OUT_CSV = OUTROOT / "af3_binderA_noRAP_metrics_samples.csv"
+OUT_CSV = OUTROOT / "binderA_af3_noRAP_metrics_samples.csv"
 
 CONTACT = 4.0
 INTENDED_FRB_PATCH = {21, 22, 25, 77, 78, 88, 92}
