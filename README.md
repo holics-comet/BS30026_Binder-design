@@ -53,22 +53,10 @@ The **Processed RFD3 target**
 ```text
 .
 ├── inputs/
-│   ├── 1FAP.pdb
-│   ├── 1FAP_FRB_RAP.pdb
-│   ├── frb_rap_binder_raphotspot.json
-│   ├── af3_binderA_pilot/
-│   └── af3_binderA_noRAP/
+│   ├── pdb, cif, json files
 ├── scripts/
-│   ├── pdb_1FAP_edit.py
-│   ├── analyze_binderA_*.py
-│   ├── select_binderA_pilot.py
-│   ├── make_af3_binderA_pilot_inputs.py
-│   ├── analyze_af3_binderA_pilot.py
-│   └── make_af3_*overlay.py
+│   ├── codes for analysis
 ├── jobs/
-│   ├── rfd3_raphotspot_h200_pilot.slurm
-│   ├── ligandmpnn_pilot_22x4.slurm
-│   ├── af3_binderA_pilot_88.slurm
-│   └── af3_binderA_noRAP_88.slurm
+│   ├── slurm
 └── README.md
 ```
